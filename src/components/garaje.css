@@ -1,0 +1,7 @@
+.garaje {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: rgb(35, 223, 236);
+  width: 400px;
+}
