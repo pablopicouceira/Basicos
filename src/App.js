@@ -10,7 +10,7 @@ function App() {
   //Obtener la fecha
   const añoActual = new Date().getFullYear();
 
-  // Crear listado de coches
+  // Crear listado de coches (no sería necesario un estado)
 
   const [coches, setCoches] = useState([
     { id: 1, marca: "Masserati", precio: 80000 },
